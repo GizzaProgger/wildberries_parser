@@ -1,0 +1,517 @@
+2023-05-07T17:49:13.664532+0300 INFO Success parsing subcategory "Блузки и рубашки" in category "Женщинам", progress: "1" of 19
+2023-05-07T17:49:19.441718+0300 INFO Success parsing subcategory "Брюки" in category "Женщинам", progress: "2" of 19
+2023-05-07T17:49:25.451840+0300 INFO Success parsing subcategory "Верхняя одежда" in category "Женщинам", progress: "3" of 19
+2023-05-07T17:49:31.477619+0300 INFO Success parsing subcategory "Джемперы, водолазки и кардиганы" in category "Женщинам", progress: "4" of 19
+2023-05-07T17:49:37.129581+0300 INFO Success parsing subcategory "Джинсы" in category "Женщинам", progress: "5" of 19
+2023-05-07T17:49:42.741538+0300 INFO Success parsing subcategory "Комбинезоны" in category "Женщинам", progress: "6" of 19
+2023-05-07T17:49:48.426892+0300 INFO Success parsing subcategory "Костюмы" in category "Женщинам", progress: "7" of 19
+2023-05-07T17:49:54.093871+0300 INFO Success parsing subcategory "Лонгсливы" in category "Женщинам", progress: "8" of 19
+2023-05-07T17:50:00.141678+0300 INFO Success parsing subcategory "Пиджаки, жилеты и жакеты" in category "Женщинам", progress: "9" of 19
+2023-05-07T17:50:06.058502+0300 INFO Success parsing subcategory "Платья и сарафаны" in category "Женщинам", progress: "10" of 19
+2023-05-07T17:50:12.123542+0300 INFO Success parsing subcategory "Толстовки, свитшоты и худи" in category "Женщинам", progress: "11" of 19
+2023-05-07T17:50:17.734781+0300 INFO Success parsing subcategory "Туники" in category "Женщинам", progress: "12" of 19
+2023-05-07T17:50:23.473867+0300 INFO Success parsing subcategory "Футболки и топы" in category "Женщинам", progress: "13" of 19
+2023-05-07T17:50:29.122278+0300 INFO Success parsing subcategory "Халаты" in category "Женщинам", progress: "14" of 19
+2023-05-07T17:50:34.925224+0300 INFO Success parsing subcategory "Шорты" in category "Женщинам", progress: "15" of 19
+2023-05-07T17:50:42.128378+0300 INFO Success parsing subcategory "Юбки" in category "Женщинам", progress: "16" of 19
+2023-05-07T17:50:50.237266+0300 INFO Success parsing subcategory "Для высоких" in category "Женщинам", progress: "17" of 19
+2023-05-07T17:50:57.871142+0300 INFO Success parsing subcategory "Для невысоких" in category "Женщинам", progress: "18" of 19
+2023-05-07T17:50:57.873031+0300 INFO Success parsing Category "Женщинам", progress: "0" of 26
+2023-05-07T17:51:04.890041+0300 INFO Success parsing subcategory "Для новорожденных" in category "Обувь", progress: "1" of 4
+2023-05-07T17:51:12.265061+0300 INFO Success parsing subcategory "Ортопедическая обувь" in category "Обувь", progress: "2" of 4
+2023-05-07T17:51:19.071949+0300 INFO Success parsing subcategory "Аксессуары для обуви" in category "Обувь", progress: "3" of 4
+2023-05-07T17:51:19.073114+0300 INFO Success parsing Category "Обувь", progress: "1" of 26
+2023-05-07T17:51:40.046913+0300 ERROR Error parsing subcategory "Обувь" in category "Детям": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T17:51:48.770192+0300 INFO Success parsing subcategory "Для новорожденных" in category "Детям", progress: "1" of 4
+2023-05-07T17:51:56.300976+0300 INFO Success parsing subcategory "Ортопедическая обувь" in category "Детям", progress: "2" of 4
+2023-05-07T17:52:03.330572+0300 INFO Success parsing subcategory "Аксессуары для обуви" in category "Детям", progress: "3" of 4
+2023-05-07T17:52:03.331893+0300 INFO Success parsing Category "Детям", progress: "2" of 26
+2023-05-07T17:52:10.891074+0300 INFO Success parsing subcategory "Брюки" in category "Мужчинам", progress: "1" of 24
+2023-05-07T17:52:17.931635+0300 INFO Success parsing subcategory "Верхняя одежда" in category "Мужчинам", progress: "2" of 24
+2023-05-07T17:52:24.772973+0300 INFO Success parsing subcategory "Джемперы, водолазки и кардиганы" in category "Мужчинам", progress: "3" of 24
+2023-05-07T17:52:31.724492+0300 INFO Success parsing subcategory "Джинсы" in category "Мужчинам", progress: "4" of 24
+2023-05-07T17:52:38.359511+0300 INFO Success parsing subcategory "Комбинезоны и полукомбинезоны" in category "Мужчинам", progress: "5" of 24
+2023-05-07T17:52:45.757376+0300 INFO Success parsing subcategory "Костюмы" in category "Мужчинам", progress: "6" of 24
+2023-05-07T17:52:52.243483+0300 INFO Success parsing subcategory "Лонгсливы" in category "Мужчинам", progress: "7" of 24
+2023-05-07T17:52:59.555335+0300 INFO Success parsing subcategory "Майки" in category "Мужчинам", progress: "8" of 24
+2023-05-07T17:53:06.707130+0300 INFO Success parsing subcategory "Пиджаки, жилеты и жакеты" in category "Мужчинам", progress: "9" of 24
+2023-05-07T17:53:13.740960+0300 INFO Success parsing subcategory "Пижамы" in category "Мужчинам", progress: "10" of 24
+2023-05-07T17:53:20.729458+0300 INFO Success parsing subcategory "Рубашки" in category "Мужчинам", progress: "11" of 24
+2023-05-07T17:53:27.577361+0300 INFO Success parsing subcategory "Толстовки, свитшоты и худи" in category "Мужчинам", progress: "12" of 24
+2023-05-07T17:53:34.007984+0300 INFO Success parsing subcategory "Футболки" in category "Мужчинам", progress: "13" of 24
+2023-05-07T17:53:40.872817+0300 INFO Success parsing subcategory "Футболки-поло" in category "Мужчинам", progress: "14" of 24
+2023-05-07T17:53:47.684528+0300 INFO Success parsing subcategory "Халаты" in category "Мужчинам", progress: "15" of 24
+2023-05-07T17:53:54.408491+0300 INFO Success parsing subcategory "Шорты" in category "Мужчинам", progress: "16" of 24
+2023-05-07T17:54:01.222657+0300 INFO Success parsing subcategory "Белье" in category "Мужчинам", progress: "17" of 24
+2023-05-07T17:54:08.426283+0300 INFO Success parsing subcategory "Для высоких" in category "Мужчинам", progress: "18" of 24
+2023-05-07T17:54:15.305047+0300 INFO Success parsing subcategory "Для невысоких" in category "Мужчинам", progress: "19" of 24
+2023-05-07T17:54:22.205349+0300 INFO Success parsing subcategory "Одежда для дома" in category "Мужчинам", progress: "20" of 24
+2023-05-07T17:54:28.910796+0300 INFO Success parsing subcategory "Офис" in category "Мужчинам", progress: "21" of 24
+2023-05-07T17:54:36.019816+0300 INFO Success parsing subcategory "Пляжная одежда" in category "Мужчинам", progress: "22" of 24
+2023-05-07T17:54:42.883075+0300 INFO Success parsing subcategory "Свадьба" in category "Мужчинам", progress: "23" of 24
+2023-05-07T17:54:42.884400+0300 INFO Success parsing Category "Мужчинам", progress: "3" of 26
+2023-05-07T17:54:49.659268+0300 INFO Success parsing subcategory "Зеркала" in category "Дом", progress: "1" of 9
+2023-05-07T17:54:56.607110+0300 INFO Success parsing subcategory "Коврики" in category "Дом", progress: "2" of 9
+2023-05-07T17:55:03.298048+0300 INFO Success parsing subcategory "Кронштейны" in category "Дом", progress: "3" of 9
+2023-05-07T17:55:10.111236+0300 INFO Success parsing subcategory "Для курения" in category "Дом", progress: "4" of 9
+2023-05-07T17:55:17.008944+0300 INFO Success parsing subcategory "Парфюмерия для дома" in category "Дом", progress: "5" of 9
+2023-05-07T17:55:23.894398+0300 INFO Success parsing subcategory "Религия, эзотерика" in category "Дом", progress: "6" of 9
+2023-05-07T17:55:31.101220+0300 INFO Success parsing subcategory "Сувенирная продукция" in category "Дом", progress: "7" of 9
+2023-05-07T17:55:37.974752+0300 INFO Success parsing subcategory "Шторы" in category "Дом", progress: "8" of 9
+2023-05-07T17:55:37.975978+0300 INFO Success parsing Category "Дом", progress: "4" of 26
+2023-05-07T17:55:44.947020+0300 INFO Success parsing subcategory "Аптечная косметика" in category "Красота", progress: "1" of 14
+2023-05-07T17:55:51.923378+0300 INFO Success parsing subcategory "Детская декоративная косметика" in category "Красота", progress: "2" of 14
+2023-05-07T17:55:58.687166+0300 INFO Success parsing subcategory "Для загара" in category "Красота", progress: "3" of 14
+2023-05-07T17:56:05.698096+0300 INFO Success parsing subcategory "Для мам и малышей" in category "Красота", progress: "4" of 14
+2023-05-07T17:56:12.259123+0300 INFO Success parsing subcategory "Израильская косметика" in category "Красота", progress: "5" of 14
+2023-05-07T17:56:19.331761+0300 INFO Success parsing subcategory "Корейские бренды" in category "Красота", progress: "6" of 14
+2023-05-07T17:56:26.191413+0300 INFO Success parsing subcategory "Косметические аппараты и аксессуары" in category "Красота", progress: "7" of 14
+2023-05-07T17:56:32.744461+0300 INFO Success parsing subcategory "Наборы для ухода" in category "Красота", progress: "8" of 14
+2023-05-07T17:56:39.438390+0300 INFO Success parsing subcategory "Органическая косметика" in category "Красота", progress: "9" of 14
+2023-05-07T17:56:46.126460+0300 INFO Success parsing subcategory "Подарочные наборы" in category "Красота", progress: "10" of 14
+2023-05-07T17:56:52.921999+0300 INFO Success parsing subcategory "Профессиональная косметика" in category "Красота", progress: "11" of 14
+2023-05-07T17:56:59.387755+0300 INFO Success parsing subcategory "Средства личной гигиены" in category "Красота", progress: "12" of 14
+2023-05-07T17:57:06.264581+0300 INFO Success parsing subcategory "Гигиена полости рта" in category "Красота", progress: "13" of 14
+2023-05-07T17:57:06.271040+0300 INFO Success parsing Category "Красота", progress: "5" of 26
+2023-05-07T17:57:13.381845+0300 INFO Success parsing subcategory "Аксессуары для волос" in category "Аксессуары", progress: "1" of 16
+2023-05-07T17:57:20.393399+0300 INFO Success parsing subcategory "Аксессуары для одежды" in category "Аксессуары", progress: "2" of 16
+2023-05-07T17:57:27.321315+0300 INFO Success parsing subcategory "Веера" in category "Аксессуары", progress: "3" of 16
+2023-05-07T17:57:34.033283+0300 INFO Success parsing subcategory "Галстуки и бабочки" in category "Аксессуары", progress: "4" of 16
+2023-05-07T17:57:40.851690+0300 INFO Success parsing subcategory "Головные уборы" in category "Аксессуары", progress: "5" of 16
+2023-05-07T17:57:47.623621+0300 INFO Success parsing subcategory "Зеркальца" in category "Аксессуары", progress: "6" of 16
+2023-05-07T17:57:54.287328+0300 INFO Success parsing subcategory "Зонты" in category "Аксессуары", progress: "7" of 16
+2023-05-07T17:58:01.316834+0300 INFO Success parsing subcategory "Кошельки и кредитницы" in category "Аксессуары", progress: "8" of 16
+2023-05-07T17:58:08.591809+0300 INFO Success parsing subcategory "Маски для сна" in category "Аксессуары", progress: "9" of 16
+2023-05-07T17:58:15.483710+0300 INFO Success parsing subcategory "Носовые платки" in category "Аксессуары", progress: "10" of 16
+2023-05-07T17:58:22.247755+0300 INFO Success parsing subcategory "Перчатки и варежки" in category "Аксессуары", progress: "11" of 16
+2023-05-07T17:58:29.523727+0300 INFO Success parsing subcategory "Платки и шарфы" in category "Аксессуары", progress: "12" of 16
+2023-05-07T17:58:36.679677+0300 INFO Success parsing subcategory "Ремни и пояса" in category "Аксессуары", progress: "13" of 16
+2023-05-07T17:58:43.879739+0300 INFO Success parsing subcategory "Часы и ремешки" in category "Аксессуары", progress: "14" of 16
+2023-05-07T17:58:51.216503+0300 INFO Success parsing subcategory "Чемоданы и защита багажа" in category "Аксессуары", progress: "15" of 16
+2023-05-07T17:58:51.216977+0300 INFO Success parsing Category "Аксессуары", progress: "6" of 26
+2023-05-07T17:58:58.463393+0300 INFO Success parsing subcategory "Автоэлектроника и навигация" in category "Электроника", progress: "1" of 13
+2023-05-07T17:59:05.696483+0300 INFO Success parsing subcategory "Гарнитуры и наушники" in category "Электроника", progress: "2" of 13
+2023-05-07T17:59:13.468000+0300 INFO Success parsing subcategory "Детская электроника" in category "Электроника", progress: "3" of 13
+2023-05-07T17:59:21.068715+0300 INFO Success parsing subcategory "Кабели и зарядные устройства" in category "Электроника", progress: "4" of 13
+2023-05-07T17:59:28.262250+0300 INFO Success parsing subcategory "Музыка и видео" in category "Электроника", progress: "5" of 13
+2023-05-07T17:59:35.599038+0300 INFO Success parsing subcategory "Развлечения и гаджеты" in category "Электроника", progress: "6" of 13
+2023-05-07T17:59:42.823253+0300 INFO Success parsing subcategory "Сетевое оборудование" in category "Электроника", progress: "7" of 13
+2023-05-07T17:59:50.228135+0300 INFO Success parsing subcategory "Смарт-часы и браслеты" in category "Электроника", progress: "8" of 13
+2023-05-07T17:59:57.311285+0300 INFO Success parsing subcategory "Солнечные электростанции и комплектующие" in category "Электроника", progress: "9" of 13
+2023-05-07T18:00:04.631413+0300 INFO Success parsing subcategory "Торговое оборудование" in category "Электроника", progress: "10" of 13
+2023-05-07T18:00:12.275044+0300 INFO Success parsing subcategory "Умный дом" in category "Электроника", progress: "11" of 13
+2023-05-07T18:00:19.807851+0300 INFO Success parsing subcategory "Электротранспорт и аксессуары" in category "Электроника", progress: "12" of 13
+2023-05-07T18:00:19.809397+0300 INFO Success parsing Category "Электроника", progress: "7" of 26
+2023-05-07T18:00:26.959434+0300 INFO Success parsing subcategory "Антистресс" in category "Игрушки", progress: "1" of 25
+2023-05-07T18:00:33.916497+0300 INFO Success parsing subcategory "Для песочницы" in category "Игрушки", progress: "2" of 25
+2023-05-07T18:00:40.628415+0300 INFO Success parsing subcategory "Игровые комплексы" in category "Игрушки", progress: "3" of 25
+2023-05-07T18:00:47.527134+0300 INFO Success parsing subcategory "Игровые наборы" in category "Игрушки", progress: "4" of 25
+2023-05-07T18:00:54.467111+0300 INFO Success parsing subcategory "Игрушечное оружие и аксессуары" in category "Игрушки", progress: "5" of 25
+2023-05-07T18:01:01.070989+0300 INFO Success parsing subcategory "Игрушечный транспорт" in category "Игрушки", progress: "6" of 25
+2023-05-07T18:01:08.067240+0300 INFO Success parsing subcategory "Игрушки для ванной" in category "Игрушки", progress: "7" of 25
+2023-05-07T18:01:14.988141+0300 INFO Success parsing subcategory "Интерактивные" in category "Игрушки", progress: "8" of 25
+2023-05-07T18:01:22.044322+0300 INFO Success parsing subcategory "Кинетический песок" in category "Игрушки", progress: "9" of 25
+2023-05-07T18:01:29.162414+0300 INFO Success parsing subcategory "Конструкторы" in category "Игрушки", progress: "10" of 25
+2023-05-07T18:01:36.053404+0300 INFO Success parsing subcategory "Конструкторы LEGO" in category "Игрушки", progress: "11" of 25
+2023-05-07T18:01:42.911378+0300 INFO Success parsing subcategory "Куклы и аксессуары" in category "Игрушки", progress: "12" of 25
+2023-05-07T18:01:49.914609+0300 INFO Success parsing subcategory "Музыкальные" in category "Игрушки", progress: "13" of 25
+2023-05-07T18:01:57.038837+0300 INFO Success parsing subcategory "Мыльные пузыри" in category "Игрушки", progress: "14" of 25
+2023-05-07T18:02:04.060872+0300 INFO Success parsing subcategory "Мягкие игрушки" in category "Игрушки", progress: "15" of 25
+2023-05-07T18:02:10.874289+0300 INFO Success parsing subcategory "Наборы для опытов" in category "Игрушки", progress: "16" of 25
+2023-05-07T18:02:17.778102+0300 INFO Success parsing subcategory "Настольные игры" in category "Игрушки", progress: "17" of 25
+2023-05-07T18:02:24.140570+0300 INFO Success parsing subcategory "Радиоуправляемые" in category "Игрушки", progress: "18" of 25
+2023-05-07T18:02:30.897079+0300 INFO Success parsing subcategory "Развивающие игрушки" in category "Игрушки", progress: "19" of 25
+2023-05-07T18:02:38.049127+0300 INFO Success parsing subcategory "Сборные модели" in category "Игрушки", progress: "20" of 25
+2023-05-07T18:02:44.937733+0300 INFO Success parsing subcategory "Спортивные игры" in category "Игрушки", progress: "21" of 25
+2023-05-07T18:02:51.384473+0300 INFO Success parsing subcategory "Сюжетно-ролевые игры" in category "Игрушки", progress: "22" of 25
+2023-05-07T18:02:58.536112+0300 INFO Success parsing subcategory "Творчество и рукоделие" in category "Игрушки", progress: "23" of 25
+2023-05-07T18:03:05.335277+0300 INFO Success parsing subcategory "Фигурки и роботы" in category "Игрушки", progress: "24" of 25
+2023-05-07T18:03:05.338936+0300 INFO Success parsing Category "Игрушки", progress: "8" of 26
+2023-05-07T18:03:12.280266+0300 INFO Success parsing subcategory "Компьютерные кресла" in category "Мебель", progress: "1" of 5
+2023-05-07T18:03:19.381587+0300 INFO Success parsing subcategory "Мебель для геймеров" in category "Мебель", progress: "2" of 5
+2023-05-07T18:03:26.769878+0300 INFO Success parsing subcategory "Торговая мебель" in category "Мебель", progress: "3" of 5
+2023-05-07T18:03:34.203549+0300 INFO Success parsing subcategory "Мебельная фурнитура" in category "Мебель", progress: "4" of 5
+2023-05-07T18:03:34.205413+0300 INFO Success parsing Category "Мебель", progress: "9" of 26
+2023-05-07T18:03:41.184225+0300 INFO Success parsing subcategory "Белье и аксессуары" in category "Товары для взрослых", progress: "1" of 7
+2023-05-07T18:03:48.147227+0300 INFO Success parsing subcategory "Игры и сувениры" in category "Товары для взрослых", progress: "2" of 7
+2023-05-07T18:03:54.954149+0300 INFO Success parsing subcategory "Интимная косметика" in category "Товары для взрослых", progress: "3" of 7
+2023-05-07T18:04:01.711258+0300 INFO Success parsing subcategory "Интимная съедобная косметика" in category "Товары для взрослых", progress: "4" of 7
+2023-05-07T18:04:08.683755+0300 INFO Success parsing subcategory "Презервативы и лубриканты" in category "Товары для взрослых", progress: "5" of 7
+2023-05-07T18:04:15.443633+0300 INFO Success parsing subcategory "Фетиш и БДСМ" in category "Товары для взрослых", progress: "6" of 7
+2023-05-07T18:04:15.445316+0300 INFO Success parsing Category "Товары для взрослых", progress: "10" of 26
+2023-05-07T18:04:22.389942+0300 INFO Success parsing subcategory "Вкусные подарки" in category "Продукты", progress: "1" of 12
+2023-05-07T18:04:29.399384+0300 INFO Success parsing subcategory "Детское питание" in category "Продукты", progress: "2" of 12
+2023-05-07T18:04:36.283050+0300 INFO Success parsing subcategory "Добавки пищевые" in category "Продукты", progress: "3" of 12
+2023-05-07T18:04:42.836899+0300 INFO Success parsing subcategory "Здоровое питание" in category "Продукты", progress: "4" of 12
+2023-05-07T18:04:49.575868+0300 INFO Success parsing subcategory "Мясная продукция" in category "Продукты", progress: "5" of 12
+2023-05-07T18:04:56.493938+0300 INFO Success parsing subcategory "Молочные продукты и яйца" in category "Продукты", progress: "6" of 12
+2023-05-07T18:05:03.259272+0300 INFO Success parsing subcategory "Напитки" in category "Продукты", progress: "7" of 12
+2023-05-07T18:05:09.778632+0300 INFO Success parsing subcategory "Снеки" in category "Продукты", progress: "8" of 12
+2023-05-07T18:05:16.711683+0300 INFO Success parsing subcategory "Замороженная продукция" in category "Продукты", progress: "9" of 12
+2023-05-07T18:05:23.489733+0300 INFO Success parsing subcategory "Фрукты и ягоды" in category "Продукты", progress: "10" of 12
+2023-05-07T18:05:30.301392+0300 INFO Success parsing subcategory "Овощи" in category "Продукты", progress: "11" of 12
+2023-05-07T18:05:30.308466+0300 INFO Success parsing Category "Продукты", progress: "11" of 26
+2023-05-07T18:05:37.350030+0300 INFO Success parsing subcategory "Климатическая техника" in category "Бытовая техника", progress: "1" of 4
+2023-05-07T18:05:44.319899+0300 INFO Success parsing subcategory "Садовая техника" in category "Бытовая техника", progress: "2" of 4
+2023-05-07T18:05:51.129378+0300 INFO Success parsing subcategory "Крупная бытовая техника" in category "Бытовая техника", progress: "3" of 4
+2023-05-07T18:05:51.135045+0300 INFO Success parsing Category "Бытовая техника", progress: "12" of 26
+2023-05-07T18:05:57.793759+0300 INFO Success parsing subcategory "Для птиц" in category "Зоотовары", progress: "1" of 16
+2023-05-07T18:06:04.883063+0300 INFO Success parsing subcategory "Для грызунов и хорьков" in category "Зоотовары", progress: "2" of 16
+2023-05-07T18:06:11.760656+0300 INFO Success parsing subcategory "Для лошадей" in category "Зоотовары", progress: "3" of 16
+2023-05-07T18:06:18.696248+0300 INFO Success parsing subcategory "Террариумистика" in category "Зоотовары", progress: "4" of 16
+2023-05-07T18:06:25.301207+0300 INFO Success parsing subcategory "Фермерство" in category "Зоотовары", progress: "5" of 16
+2023-05-07T18:06:32.009625+0300 INFO Success parsing subcategory "Корм и лакомства" in category "Зоотовары", progress: "6" of 16
+2023-05-07T18:06:38.729889+0300 INFO Success parsing subcategory "Аксессуары для кормления" in category "Зоотовары", progress: "7" of 16
+2023-05-07T18:06:45.563038+0300 INFO Success parsing subcategory "Лотки и наполнители" in category "Зоотовары", progress: "8" of 16
+2023-05-07T18:06:52.361850+0300 INFO Success parsing subcategory "Когтеточки и домики" in category "Зоотовары", progress: "9" of 16
+2023-05-07T18:06:59.087095+0300 INFO Success parsing subcategory "Транспортировка" in category "Зоотовары", progress: "10" of 16
+2023-05-07T18:07:05.826244+0300 INFO Success parsing subcategory "Амуниция и дрессировка" in category "Зоотовары", progress: "11" of 16
+2023-05-07T18:07:12.983231+0300 INFO Success parsing subcategory "Игрушки" in category "Зоотовары", progress: "12" of 16
+2023-05-07T18:07:19.627249+0300 INFO Success parsing subcategory "Груминг и уход" in category "Зоотовары", progress: "13" of 16
+2023-05-07T18:07:26.366614+0300 INFO Success parsing subcategory "Одежда" in category "Зоотовары", progress: "14" of 16
+2023-05-07T18:07:33.290633+0300 INFO Success parsing subcategory "Ветаптека" in category "Зоотовары", progress: "15" of 16
+2023-05-07T18:07:33.291850+0300 INFO Success parsing Category "Зоотовары", progress: "13" of 26
+2023-05-07T18:07:40.441292+0300 INFO Success parsing subcategory "Бильярд/Гольф/Дартс/Метание ножей" in category "Спорт", progress: "1" of 9
+2023-05-07T18:07:47.391358+0300 INFO Success parsing subcategory "Конный спорт" in category "Спорт", progress: "2" of 9
+2023-05-07T18:07:53.803771+0300 INFO Success parsing subcategory "Мотоспорт" in category "Спорт", progress: "3" of 9
+2023-05-07T18:08:00.324192+0300 INFO Success parsing subcategory "Парусный спорт" in category "Спорт", progress: "4" of 9
+2023-05-07T18:08:07.459978+0300 INFO Success parsing subcategory "Скалолазание/Альпинизм" in category "Спорт", progress: "5" of 9
+2023-05-07T18:08:14.492931+0300 INFO Success parsing subcategory "Спортивная обувь" in category "Спорт", progress: "6" of 9
+2023-05-07T18:08:21.087271+0300 INFO Success parsing subcategory "Товары для самообороны" in category "Спорт", progress: "7" of 9
+2023-05-07T18:08:27.835693+0300 INFO Success parsing subcategory "Электроника" in category "Спорт", progress: "8" of 9
+2023-05-07T18:08:27.837086+0300 INFO Success parsing Category "Спорт", progress: "14" of 26
+2023-05-07T18:08:35.217172+0300 INFO Success parsing subcategory "Автоэлектроника и навигация" in category "Автотовары", progress: "1" of 8
+2023-05-07T18:08:41.683309+0300 INFO Success parsing subcategory "Коврики" in category "Автотовары", progress: "2" of 8
+2023-05-07T18:08:48.449569+0300 INFO Success parsing subcategory "Внешний тюнинг" in category "Автотовары", progress: "3" of 8
+2023-05-07T18:08:55.076109+0300 INFO Success parsing subcategory "Мойки высокого давления и аксессуары" in category "Автотовары", progress: "4" of 8
+2023-05-07T18:09:01.662463+0300 INFO Success parsing subcategory "OFFroad" in category "Автотовары", progress: "5" of 8
+2023-05-07T18:09:08.916328+0300 INFO Success parsing subcategory "Запчасти на силовую технику" in category "Автотовары", progress: "6" of 8
+2023-05-07T18:09:15.005952+0300 INFO Success parsing subcategory "Запчасти для лодок и катеров" in category "Автотовары", progress: "7" of 8
+2023-05-07T18:09:15.007409+0300 INFO Success parsing Category "Автотовары", progress: "15" of 26
+2023-05-07T18:09:21.167298+0300 INFO Success parsing subcategory "Комиксы и манга" in category "Книги", progress: "1" of 16
+2023-05-07T18:09:27.639376+0300 INFO Success parsing subcategory "Образование" in category "Книги", progress: "2" of 16
+2023-05-07T18:09:34.538757+0300 INFO Success parsing subcategory "Бизнес и менеджмент" in category "Книги", progress: "3" of 16
+2023-05-07T18:09:41.165391+0300 INFO Success parsing subcategory "Научно-популярная литература" in category "Книги", progress: "4" of 16
+2023-05-07T18:09:48.171501+0300 INFO Success parsing subcategory "Интернет и технологии" in category "Книги", progress: "5" of 16
+2023-05-07T18:09:55.104988+0300 INFO Success parsing subcategory "Философия" in category "Книги", progress: "6" of 16
+2023-05-07T18:10:02.532205+0300 INFO Success parsing subcategory "Букинистика" in category "Книги", progress: "7" of 16
+2023-05-07T18:10:09.966799+0300 INFO Success parsing subcategory "Книги на иностранных языках" in category "Книги", progress: "8" of 16
+2023-05-07T18:10:17.481733+0300 INFO Success parsing subcategory "Плакаты" in category "Книги", progress: "9" of 16
+2023-05-07T18:10:25.212121+0300 INFO Success parsing subcategory "Календари" in category "Книги", progress: "10" of 16
+2023-05-07T18:10:32.775754+0300 INFO Success parsing subcategory "Коллекционные издания" in category "Книги", progress: "11" of 16
+2023-05-07T18:10:40.320934+0300 INFO Success parsing subcategory "Мультимедиа" in category "Книги", progress: "12" of 16
+2023-05-07T18:10:47.492765+0300 INFO Success parsing subcategory "Аудиокниги" in category "Книги", progress: "13" of 16
+2023-05-07T18:11:11.453356+0300 ERROR Error parsing subcategory "Цифровые книги" in category "Книги": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:11:34.913567+0300 ERROR Error parsing subcategory "Цифровые аудиокниги" in category "Книги": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:11:34.919324+0300 INFO Success parsing Category "Книги", progress: "16" of 26
+2023-05-07T18:11:42.987732+0300 INFO Success parsing subcategory "Кольца" in category "Ювелирные изделия", progress: "1" of 17
+2023-05-07T18:11:50.306257+0300 INFO Success parsing subcategory "Серьги" in category "Ювелирные изделия", progress: "2" of 17
+2023-05-07T18:11:57.812118+0300 INFO Success parsing subcategory "Браслеты" in category "Ювелирные изделия", progress: "3" of 17
+2023-05-07T18:12:05.171782+0300 INFO Success parsing subcategory "Подвески и шармы" in category "Ювелирные изделия", progress: "4" of 17
+2023-05-07T18:12:12.612807+0300 INFO Success parsing subcategory "Комплекты" in category "Ювелирные изделия", progress: "5" of 17
+2023-05-07T18:12:19.064811+0300 INFO Success parsing subcategory "Колье, цепи, шнурки" in category "Ювелирные изделия", progress: "6" of 17
+2023-05-07T18:12:25.887070+0300 INFO Success parsing subcategory "Броши" in category "Ювелирные изделия", progress: "7" of 17
+2023-05-07T18:12:32.831446+0300 INFO Success parsing subcategory "Пирсинг" in category "Ювелирные изделия", progress: "8" of 17
+2023-05-07T18:12:39.907341+0300 INFO Success parsing subcategory "Часы" in category "Ювелирные изделия", progress: "9" of 17
+2023-05-07T18:12:46.939217+0300 INFO Success parsing subcategory "Зажимы, запонки, ремни" in category "Ювелирные изделия", progress: "10" of 17
+2023-05-07T18:12:53.810273+0300 INFO Success parsing subcategory "Четки" in category "Ювелирные изделия", progress: "11" of 17
+2023-05-07T18:13:00.980855+0300 INFO Success parsing subcategory "Сувениры и столовое серебро" in category "Ювелирные изделия", progress: "12" of 17
+2023-05-07T18:13:08.057311+0300 INFO Success parsing subcategory "Украшения из золота" in category "Ювелирные изделия", progress: "13" of 17
+2023-05-07T18:13:14.446965+0300 INFO Success parsing subcategory "Украшения из серебра" in category "Ювелирные изделия", progress: "14" of 17
+2023-05-07T18:13:21.149727+0300 INFO Success parsing subcategory "Украшения из керамики" in category "Ювелирные изделия", progress: "15" of 17
+2023-05-07T18:13:27.723909+0300 INFO Success parsing subcategory "Аксессуары для украшений" in category "Ювелирные изделия", progress: "16" of 17
+2023-05-07T18:13:27.726939+0300 INFO Success parsing Category "Ювелирные изделия", progress: "17" of 26
+2023-05-07T18:13:34.769893+0300 INFO Success parsing subcategory "Вентиляция" in category "Для ремонта", progress: "1" of 3
+2023-05-07T18:13:41.257352+0300 INFO Success parsing subcategory "Сборные конструкции" in category "Для ремонта", progress: "2" of 3
+2023-05-07T18:13:41.258798+0300 INFO Success parsing Category "Для ремонта", progress: "18" of 26
+2023-05-07T18:13:47.939496+0300 INFO Success parsing subcategory "Мойки высокого давления и аксессуары" in category "Сад и дача", progress: "1" of 2
+2023-05-07T18:13:47.940758+0300 INFO Success parsing Category "Сад и дача", progress: "19" of 26
+2023-05-07T18:13:54.867629+0300 INFO Success parsing subcategory "БАДы" in category "Здоровье", progress: "1" of 16
+2023-05-07T18:14:02.047198+0300 INFO Success parsing subcategory "Грибы сушеные и капсулированные" in category "Здоровье", progress: "2" of 16
+2023-05-07T18:14:08.701166+0300 INFO Success parsing subcategory "Дезинфекция, стерилизация и утилизация" in category "Здоровье", progress: "3" of 16
+2023-05-07T18:14:15.780948+0300 INFO Success parsing subcategory "Ухо, горло, нос" in category "Здоровье", progress: "4" of 16
+2023-05-07T18:14:22.843655+0300 INFO Success parsing subcategory "Контрацептивы и лубриканты" in category "Здоровье", progress: "5" of 16
+2023-05-07T18:14:30.175798+0300 INFO Success parsing subcategory "Лечебное питание " in category "Здоровье", progress: "6" of 16
+2023-05-07T18:14:37.215689+0300 INFO Success parsing subcategory "Маски защитные" in category "Здоровье", progress: "7" of 16
+2023-05-07T18:14:44.768030+0300 INFO Success parsing subcategory "Медицинские изделия" in category "Здоровье", progress: "8" of 16
+2023-05-07T18:14:52.748204+0300 INFO Success parsing subcategory "Медицинские приборы" in category "Здоровье", progress: "9" of 16
+2023-05-07T18:15:01.177282+0300 INFO Success parsing subcategory "Оздоровление" in category "Здоровье", progress: "10" of 16
+2023-05-07T18:15:09.204568+0300 INFO Success parsing subcategory "Оптика" in category "Здоровье", progress: "11" of 16
+2023-05-07T18:15:16.484689+0300 INFO Success parsing subcategory "Противопростудные препараты" in category "Здоровье", progress: "12" of 16
+2023-05-07T18:15:23.931743+0300 INFO Success parsing subcategory "Реабилитация" in category "Здоровье", progress: "13" of 16
+2023-05-07T18:15:31.332009+0300 INFO Success parsing subcategory "Сиропы и бальзамы" in category "Здоровье", progress: "14" of 16
+2023-05-07T18:15:39.258072+0300 INFO Success parsing subcategory "Уход за полостью рта" in category "Здоровье", progress: "15" of 16
+2023-05-07T18:15:39.259726+0300 INFO Success parsing Category "Здоровье", progress: "20" of 26
+2023-05-07T18:15:46.683679+0300 INFO Success parsing subcategory "Бумажная продукция" in category "Канцтовары", progress: "1" of 9
+2023-05-07T18:15:54.070657+0300 INFO Success parsing subcategory "Карты и глобусы" in category "Канцтовары", progress: "2" of 9
+2023-05-07T18:16:01.273126+0300 INFO Success parsing subcategory "Офисные принадлежности" in category "Канцтовары", progress: "3" of 9
+2023-05-07T18:16:08.976010+0300 INFO Success parsing subcategory "Письменные принадлежности" in category "Канцтовары", progress: "4" of 9
+2023-05-07T18:16:15.615883+0300 INFO Success parsing subcategory "Рисование и лепка" in category "Канцтовары", progress: "5" of 9
+2023-05-07T18:16:22.455216+0300 INFO Success parsing subcategory "Счетный материал" in category "Канцтовары", progress: "6" of 9
+2023-05-07T18:16:29.260992+0300 INFO Success parsing subcategory "Торговые принадлежности" in category "Канцтовары", progress: "7" of 9
+2023-05-07T18:16:36.316349+0300 INFO Success parsing subcategory "Чертежные принадлежности" in category "Канцтовары", progress: "8" of 9
+2023-05-07T18:16:36.319107+0300 INFO Success parsing Category "Канцтовары", progress: "21" of 26
+2023-05-07T18:16:36.320027+0300 INFO Success parsing Category "Акции", progress: "22" of 26
+2023-05-07T18:16:58.792896+0300 ERROR Error parsing subcategory "Услуги" in category "Цифровые товары": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:17:20.448711+0300 ERROR Error parsing subcategory "Акции" in category "Цифровые товары": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:17:20.460374+0300 INFO Success parsing Category "Цифровые товары", progress: "23" of 26
+2023-05-07T18:17:44.737816+0300 ERROR Error parsing subcategory "Цифровые товары" in category "Сделано в Москве": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:18:06.763748+0300 ERROR Error parsing subcategory "Услуги" in category "Сделано в Москве": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:18:28.408966+0300 ERROR Error parsing subcategory "Акции" in category "Сделано в Москве": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:18:28.414939+0300 INFO Success parsing Category "Сделано в Москве", progress: "24" of 26
+2023-05-07T18:18:50.819295+0300 ERROR Error parsing subcategory "Регионы" in category "Путешествия": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:19:16.888914+0300 ERROR Error parsing subcategory "Авиабилеты" in category "Путешествия": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:19:40.955958+0300 ERROR Error parsing subcategory "Ж/д билеты" in category "Путешествия": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+
+2023-05-07T18:20:12.143449+0300 ERROR Error parsing subcategory "Автобусы" in category "Путешествия": Message: 
+Stacktrace:
+#0 0x55d10c911fe3 <unknown>
+#1 0x55d10c650d36 <unknown>
+#2 0x55d10c68dc4d <unknown>
+#3 0x55d10c68dd61 <unknown>
+#4 0x55d10c6c96a4 <unknown>
+#5 0x55d10c6ae8ed <unknown>
+#6 0x55d10c6c7232 <unknown>
+#7 0x55d10c6ae693 <unknown>
+#8 0x55d10c68103a <unknown>
+#9 0x55d10c68217e <unknown>
+#10 0x55d10c8d3dbd <unknown>
+#11 0x55d10c8d7c6c <unknown>
+#12 0x55d10c8e14b0 <unknown>
+#13 0x55d10c8d8d63 <unknown>
+#14 0x55d10c8abc35 <unknown>
+#15 0x55d10c8fc138 <unknown>
+#16 0x55d10c8fc2c7 <unknown>
+#17 0x55d10c90a093 <unknown>
+#18 0x7f071ddba609 start_thread
+

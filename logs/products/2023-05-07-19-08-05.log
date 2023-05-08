@@ -1,0 +1,28 @@
+2023-05-07T19:08:09.378313+0300 INFO Success parsing product "Med Expert  / Маски одноразовые медицинские чёрные - 50 шт" in category "Маски защитные", progress: "0" of 20
+2023-05-07T19:08:12.722853+0300 INFO Success parsing product "МедЗащита  / Маски одноразовые 100 шт" in category "Маски защитные", progress: "1" of 20
+2023-05-07T19:08:15.754630+0300 INFO Success parsing product "Med Expert  / Маски для лица защитные одноразовые" in category "Маски защитные", progress: "2" of 20
+2023-05-07T19:08:18.887490+0300 INFO Success parsing product "Valerika61  / Маска многоразовая" in category "Маски защитные", progress: "3" of 20
+2023-05-07T19:08:23.651517+0300 INFO Success parsing product "CleanLight  / Маска для лица тканевая многоразовая защитная набор" in category "Маски защитные", progress: "4" of 20
+2023-05-07T19:08:29.374438+0300 INFO Success parsing product "CleanLight  / Маска для лица тканевая многоразовая защитная набор" in category "Маски защитные", progress: "5" of 20
+2023-05-07T19:08:32.717479+0300 INFO Success parsing product "Маски Одноразовые  / Комплект масок одноразовых 100 шт розовые,черные" in category "Маски защитные", progress: "6" of 20
+2023-05-07T19:08:35.893319+0300 INFO Success parsing product "WoClot  / Респиратор с клапаном черный, 10 шт" in category "Маски защитные", progress: "7" of 20
+2023-05-07T19:08:39.796462+0300 INFO Success parsing product "WoClot  / Респиратор с клапаном черный, 5 шт" in category "Маски защитные", progress: "8" of 20
+2023-05-07T19:08:43.882016+0300 INFO Success parsing product "Маски VITAL  / Маски медицинские одноразовые для лица защитные набор 50 шт" in category "Маски защитные", progress: "9" of 20
+2023-05-07T19:08:48.143888+0300 INFO Success parsing product "Повязки Ватно-Марлевые  / Ватно-марлевая повязка, для детей" in category "Маски защитные", progress: "10" of 20
+2023-05-07T19:08:53.963799+0300 INFO Success parsing product "WoClot  / Респиратор с клапаном черный, 3 шт" in category "Маски защитные", progress: "11" of 20
+2023-05-07T19:09:06.166500+0300 INFO Success parsing product "WoClot  / Респиратор с клапаном черный, 25 шт" in category "Маски защитные", progress: "12" of 20
+2023-05-07T19:09:10.163811+0300 ERROR Error parsing product "3М  / Набор 15 в 1 Маска 7502 фильтры", "https://www.wildberries.ru/catalog/42570718/detail.aspx" in category "Маски защитные": [Errno 2] No such file or directory: './results/products/3М 3М 3М / Набор 15 в 1 / Маска 3М 7502 / фильтры.json'
+2023-05-07T19:09:14.073743+0300 INFO Success parsing product "Bukhara Brilliant Silk  / Маска шелковая барьерная" in category "Маски защитные", progress: "14" of 20
+2023-05-07T19:09:18.673541+0300 INFO Success parsing product "masks  / Лифтинг маска" in category "Маски защитные", progress: "15" of 20
+2023-05-07T19:09:21.998854+0300 INFO Success parsing product "WoClot  / Респиратор с клапаном черный, 1 шт" in category "Маски защитные", progress: "16" of 20
+2023-05-07T19:09:25.952834+0300 ERROR Error parsing product "4Love4You  / Маска из страз многоразовая", "https://www.wildberries.ru/catalog/17342589/detail.aspx" in category "Маски защитные": invalid literal for int() with base 10: ''
+2023-05-07T19:09:29.791916+0300 INFO Success parsing product "НАШ СЕЗОН  / Маска одноразовая" in category "Маски защитные", progress: "18" of 20
+2023-05-07T19:09:35.284003+0300 INFO Success parsing product "Russian brand  / Маска для лица многоразовая защитная" in category "Маски защитные", progress: "19" of 20
+2023-05-07T19:09:41.032004+0300 INFO Success parsing product "Euro shisha  / Уголь для кальяна кокосовый 25мм 72шт премиум" in category "Для курения", progress: "0" of 20
+2023-05-07T19:09:46.856122+0300 INFO Success parsing product "LLU-HOME  / Пепельница стичница универсальная" in category "Для курения", progress: "1" of 20
+2023-05-07T19:09:50.402742+0300 INFO Success parsing product "CocoLoco  / Уголь для кальяна кокосовый 25 для дома и кальянных" in category "Для курения", progress: "2" of 20
+2023-05-07T19:09:54.463897+0300 INFO Success parsing product "Eco Coco  / Уголь для кальяна" in category "Для курения", progress: "3" of 20
+2023-05-07T19:09:59.226914+0300 INFO Success parsing product "CocoLoco  / Кокосовый уголь для кальяна" in category "Для курения", progress: "4" of 20
+2023-05-07T19:10:13.083068+0300 INFO Success parsing product "Don  / Шахта для кальяна" in category "Для курения", progress: "5" of 20
+2023-05-07T19:10:18.836713+0300 INFO Success parsing product "Sulawesi  / Уголь для кальяна кокосовый 1000 грамм 72шт. 25 мм" in category "Для курения", progress: "6" of 20
+2023-05-07T19:10:23.539367+0300 INFO Success parsing product "Lcfunny  / Mашинка для набивки сигарет, 8 мм" in category "Для курения", progress: "7" of 20
