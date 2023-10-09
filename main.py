@@ -3,24 +3,28 @@ from Parser import ParserConductor
 import os
 import json
 
-browser = get_browser(headless = True)
+import pymongo
 
-parser = ParserConductor(browser)
+client = pymongo.MongoClient("mongodb://root:12345678@localhost:27017/")
+
+# проверяем соединение
+try:
+    # попытаемся отправить ping запрос к серверу
+    client.server_info()
+    print("Соединение с MongoDB установлено")
+except pymongo.errors.ServerSelectionTimeoutError as e:
+    # если не удалось установить соединение, выведем ошибку
+    print("Не удалось установить соединение с MongoDB: %s" % e)
+
+db_connection = client['wildberies']
+
+browser = get_browser(headless = False)
+
+parser = ParserConductor(browser, db_connection)
+parser.re_parse_products('6458da2b9b4a1d5d1837f0dd')
+# parser.parse_category_by_id_products_list('6458da2b9b4a1d5d1837f0dd')
+
+# product = parser.parse_product_page("https://www.wildberries.ru/catalog/24695842/detail.aspx")
+# print(product)
+# parser.parse_categories_products_list()
 # parser.parse_categories_products_list('results/categories/all.json')
-
-def save_product_to_db(product):
-    # путь к директории для сохранения файла
-    dir_path = "./results/products"
-
-    # проверяем, что директория существует
-    if not os.path.exists(dir_path):
-        os.makedirs(dir_path)
-
-    # путь к файлу для сохранения
-    file_path = os.path.join(dir_path, f"{product['name'].replace('/', '-')}.json")
-
-    # сохраняем JSON в файл
-    with open(file_path, "w") as f:
-        json.dump(product, f, ensure_ascii=False)
-
-parser.parse_products_by_files(save_product_to_db)
